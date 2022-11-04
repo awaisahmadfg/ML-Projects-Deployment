@@ -1,5 +1,5 @@
 # Machine Learning Deployment Tutorials
-I'm following this deployment tutorials frm krish Naik's Yutube  channel.  
+I'm following this deployment tutorials frm krish Naik's Yutube  channel. A very Good understanding.  
 Launch machine learning models into production using flask, docker etc.
 
 # 1. Predict Sales
